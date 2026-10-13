@@ -1,0 +1,29 @@
+h1~p{
+    color: grey;
+}
+
+h1+p{
+    color: blue;
+    font-weight: bold;
+}
+
+span{
+    background-color: #d6cece;
+}
+
+.offre-texte{  /* $ */
+    font-size: large;
+}
+
+.intro-voyage{   /* ^ */
+    text-transform: uppercase;
+}
+
+.special-promo{
+    background-color: yellow;
+}
+
+span[title]{
+    color: green;
+    font-style: italic;
+}
